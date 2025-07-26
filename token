@@ -1,14 +1,16 @@
 [
   {
     "id": "990766c6f363ea87",
-    "key": "1258995433367gsghfbjz",
-    "expiresAt": "2026-05-30",
+    "username": "eldexsz",
+    "password": "eldexsz",
+    "expiresAt": "2025-12-31",
     "allowOffline": true
   },
   {
-    "id": "ali456",
-    "key": "key2",
-    "expiresAt": "2025-06-15",
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
     "allowOffline": false
   }
 ]
