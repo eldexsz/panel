@@ -1,16 +1,4 @@
-[
-  {
-    "id": "990766c6f363ea87",
-    "username": "eldexsz",
-    "password": "eldexsz",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
-  }
-]
+module.exports = {
+  BOT_TOKEN: "7815358758:AAGkEGQVfS4ylkwSiZpWFE3VUIM_qDJCjEI",
+  OWNER_ID: ["7715794431"],
+};
