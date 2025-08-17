@@ -1,16 +1,14 @@
 [
   {
     "id": "28987ffc8a7b6e7e",
-    "username": "1",
-    "password": "1",
-    "expiresAt": "2026-12-31",
+    "key": "Admin",
+    "expiresAt": "2026-05-30",
     "allowOffline": true
   },
   {
-    "id": "28987ffc8a7b6e7e",
-    "username": "2",
-    "password": "222",
-    "expiresAt": "2026-11-30",
+    "id": "ali456",
+    "key": "key2",
+    "expiresAt": "2025-06-15",
     "allowOffline": false
   }
 ]
