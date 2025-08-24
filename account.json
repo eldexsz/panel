@@ -1,8 +1,14 @@
 [
   {
-    "id": "b6ee54ce756ed75f",
-    "key": "dexsz",
-    "expiresAt": "2026-05-30",
+    "id": "5b62938c82a2b800",
+    "key": "Costumer1",
+    "expiresAt": "2027-05-30",
+    "allowOffline": true
+  },
+  {
+    "id": "abdcae26cbade131",
+    "key": "SUKASUSUKAMUUU01",
+    "expiresAt": "2027-05-30",
     "allowOffline": true
   },
   {
